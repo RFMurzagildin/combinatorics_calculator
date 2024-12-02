@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="urn_models">Урновые модели</string>
+    <string name="combinatorics">Комбинаторика</string>
+    <string name="calculate">Вычислить</string>
+</resources>
